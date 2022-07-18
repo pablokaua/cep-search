@@ -6,7 +6,7 @@
 
 #
 
-## 👩‍🔬 Projeto
+## 👩‍🔬 [CEP SEARCH](https://pablokaua.github.io/cep-search/)
 
 site recebe um número de **CEP**, valida o valor e consome a **API** [Via Cep](https://viacep.com.br/) para retornar o endereço atrelado ao **CEP**
 
